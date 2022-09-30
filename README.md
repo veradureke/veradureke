@@ -1,7 +1,3 @@
-<p align="center">  
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Vera</h1>
 <h3 align="center">A passionate and everlearning student getting into Data Science and Analytics.</h3>
 
