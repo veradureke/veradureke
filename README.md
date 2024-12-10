@@ -1,114 +1,71 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+# Vera Dureke 👩🏽‍💻 | Contract Analyst & Aspiring Data Ethicist 
 
-### <div align="center">I'm Vera, a full-time contract analyst and Data Science and Math major at IU 👨‍💻 working remotely since 2018 🚀</div>  
-  
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/102716949?s=400&u=c6b0cd5457d73419c90f283a141f1f5eb8bfcac8&v=4" alt="Vera Dureke's Headshot" width="200" style="border-radius: 50%;">
+</p>
 
-- 🔭 I’m currently working on a data model for [Spacelab](https://github.com/spacelabdev/new_world_disco)  
-  
+---
 
-- 🌱 I’m currently learning Machine Learning and API's  
-  
+## 👩🏽‍💼 About Me
 
-- ❓ Ask me about anything related to data science and related technologies  
-  
+Hi, I’m **Vera Dureke**, a Contract Analyst with a passion for data-driven decision-making and a focus on ethical AI, based in **Chicago, IL**. My experience spans analyzing contracts for compliance and optimization while exploring the intersection of technology and ethics. 
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+Currently pursuing a double major in **Data Science** and **Mathematics** at Indiana University East (graduating December 2025), I plan to leverage my analytical skills and ethical focus to drive impactful solutions in technology and business. My ultimate goal is to advance the conversation around responsible AI practices through research and innovation.
 
-<br/>  
+Through my work with organizations like **Baddies in Tech**, **Out in Tech**, and **Blacks in Technology**, I champion diversity in tech while driving innovation. Let’s connect and collaborate on projects that make a difference!
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+---
 
+## 🔗 Connect with Me
 
+- **LinkedIn**: [linkedin.com/in/vera-dureke](https://linkedin.com/in/vera-dureke)
+- **Email**: [veradureke@gmail.com](mailto:veradureke@gmail.com)
 
-### Frontend  
-<div align="center">  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-</div>
+---
 
-</td><td valign="top" width="33%">
+## 📂 Highlighted Repositories
 
+### 1. **[Technology Product Categorization](https://github.com/veradureke/Technology-Product-Categorization)**
+   **Description**: Leveraging machine learning for multiclass classification of technology products.  
+   **Features**: Tokenization of product descriptions, XGBoost model, and precision-focused feature engineering.
 
+### 2. **[Deforestation Exploration](https://github.com/veradureke/Deforestation-Exploration)**
+   **Description**: A comprehensive exploratory data analysis of deforestation patterns and contributing factors.  
+   **Features**: Geospatial analysis, data visualization dashboards, and actionable insights for environmental sustainability.
 
-### Backend  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
-</div>
+### 3. **[Seven Sages Brewing](https://github.com/veradureke/Seven-Sages-Brewing)**
+   **Description**: A predictive analytics project aimed at optimizing sales for a craft brewing company.  
+   **Features**: Demand forecasting, time-series analysis, and visualization of market trends.
 
-</td><td valign="top" width="33%">
+---
 
+## 📊 Recent Activity
 
+- **Consistent Contributions**: Engaged with repositories weekly to maintain a green contribution graph.
+- **Community Engagement**: Responded to issues, participated in discussions, and made pull requests to collaborative projects.  
+- **Following & Starring**: Engaged with top-notch data science and AI repositories for continuous learning.
 
-</td></tr></table>  
+---
 
-<br/>  
+## 🛠️ How to Get Started with My Projects
 
+Each repository includes:  
+- **README files** with project overviews, objectives, methodology, and visualizations.  
+- **Installation Instructions**: Step-by-step setup guides for local environments.  
+- **Sample Datasets**: Provided to test the project.  
+- **Documentation**: Includes user guides and API references for project replication.  
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/veradureke" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/veradureke" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/veradureke" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/veradureke" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+Feel free to explore and contribute to my projects! 💡
 
-<br/>  
+---
 
+## 🤝 Let’s Collaborate!
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=veradureke&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+Whether you're interested in contract analysis, data ethics, or AI solutions, I’d love to connect. Let’s create impactful solutions together!
 
-<br/>  
+---
 
+### 📈 GitHub Stats
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12970779&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=dbc5f7&bar_color_cover=false" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=veradureke&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://paypal.me/lovelylavenderchild" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=veradureke&show_icons=true&theme=radical)
