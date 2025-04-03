@@ -10,7 +10,7 @@
 
 Hi, I’m **Vera Dureke**, a Contract Analyst with a passion for data-driven decision-making and a focus on ethical AI, based in **Chicago, IL**. My experience spans analyzing contracts for compliance and optimization while exploring the intersection of technology and ethics. 
 
-Currently pursuing a double major in **Data Science** and **Mathematics** at Indiana University East (graduating December 2025), I plan to leverage my analytical skills and ethical focus to drive impactful solutions in technology and business. My ultimate goal is to advance the conversation around responsible AI practices through research and innovation.
+Currently pursuing a double major in **Data Science** and **Mathematics** at Indiana University East (graduating May 2026), I plan to leverage my analytical skills and ethical focus to drive impactful solutions in technology and business. My ultimate goal is to advance the conversation around responsible AI practices through research and innovation.
 
 Through my work with organizations like **Baddies in Tech**, **Out in Tech**, and **Blacks in Technology**, I champion diversity in tech while driving innovation. Let’s connect and collaborate on projects that make a difference!
 
