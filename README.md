@@ -1,4 +1,4 @@
-# Vera Dureke 👩🏽‍💻 | AI Product Intern & Aspiring Data Ethicist 
+# Vera Dureke 👩🏽‍💻 | BI Analyst & Aspiring Data Ethicist 
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/102716949?s=400&u=c6b0cd5457d73419c90f283a141f1f5eb8bfcac8&v=4" alt="Vera Dureke's Headshot" width="200" style="border-radius: 50%;">
@@ -8,7 +8,7 @@
 
 ## 👩🏽‍💼 About Me
 
-Hi, I’m **Vera Dureke**, a AI Product Intern with a passion for data-driven decision-making and a focus on ethical AI, based in **Chicago, IL**. My experience spans analyzing contracts for compliance and optimization while exploring the intersection of technology and ethics. 
+Hi, I’m **Vera Dureke**, a Business Intelligence Analyst with a passion for data-driven decision-making and a focus on ethical AI, based in **Chicago, IL**. My experience spans analyzing contracts for compliance and optimization while exploring the intersection of technology and ethics. 
 
 Currently pursuing a double major in **Data Science** and **Mathematics** at Indiana University East (graduating May 2026), I plan to leverage my analytical skills and ethical focus to drive impactful solutions in technology and business. My ultimate goal is to advance the conversation around responsible AI practices through research and innovation.
 
