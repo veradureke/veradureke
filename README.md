@@ -1,71 +1,50 @@
-# Vera Dureke 👩🏽‍💻 | BI Analyst & Aspiring Data Ethicist 
+# Vera Dureke | CS PhD Student & Data Ethicist
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/102716949?s=400&u=c6b0cd5457d73419c90f283a141f1f5eb8bfcac8&v=4" alt="Vera Dureke's Headshot" width="200" style="border-radius: 50%;">
+  <img src="https://avatars.githubusercontent.com/u/102716949?s=400&u=c6b0cd5457d73419c90f283a141f1f5eb8bfcac8&v=4" alt="Vera Dureke" width="200" style="border-radius: 50%;">
 </p>
 
 ---
 
-## 👩🏽‍💼 About Me
+## About Me
 
-Hi, I’m **Vera Dureke**, a Business Intelligence Analyst with a passion for data-driven decision-making and a focus on ethical AI, based in **Chicago, IL**. My experience spans analyzing contracts for compliance and optimization while exploring the intersection of technology and ethics. 
+I'm **Vera Dureke**, an incoming Computer Science PhD student at the **University of Illinois Chicago**, where I'll be researching algorithmic fairness advised by Prof. Abolfazl Asudeh. I'm supported by a **GEM Fellowship** and focused on the ways ML systems encode and amplify bias — and how to fix that.
 
-Currently pursuing a double major in **Data Science** and **Mathematics** at Indiana University East (graduating May 2026), I plan to leverage my analytical skills and ethical focus to drive impactful solutions in technology and business. My ultimate goal is to advance the conversation around responsible AI practices through research and innovation.
+This summer I'm wrapping up an AI/VR internship at **NASA Glenn Research Center's GVIS Lab**, where I built an interactive VR exhibit for Meta Quest 3 featuring an AI astronaut guide, and developed an exoplanet detection ML system using Kepler light curve data.
 
-Through my work with organizations like **Baddies in Tech**, **Out in Tech**, and **Blacks in Technology**, I champion diversity in tech while driving innovation. Let’s connect and collaborate on projects that make a difference!
-
+I hold a double major in **Data Science and Mathematics** from Indiana University East (May 2026). Outside research I lead as President of **Blacks in Technology Chicago**, Marketing Lead for **Out in Tech Chicago**, and Fellow with **Break Through Tech AI**.
 
 ---
 
-## 🔗 Connect with Me
+## Connect
 
 - **LinkedIn**: [linkedin.com/in/vera-dureke](https://linkedin.com/in/vera-dureke)
 - **Email**: [veradureke@gmail.com](mailto:veradureke@gmail.com)
 
 ---
 
-## 📂 Highlighted Repositories
+## Highlighted Projects
 
-### 1. **[Technology Product Categorization](https://github.com/veradureke/Technology-Product-Categorization)**
-   **Description**: Leveraging machine learning for multiclass classification of technology products.  
-   **Features**: Tokenization of product descriptions, XGBoost model, and precision-focused feature engineering.
+### [Exoplanet Detection](https://github.com/veradureke/Exoplanet-Detection)
+ML system for detecting planetary transits in Kepler stellar light curves. Random Forest + 1D CNN pipeline with SMOTE oversampling and precision-recall threshold tuning. Built during NASA Glenn internship. Planet recall improved from 0% to 100% after addressing class imbalance.
 
-### 2. **[Deforestation Exploration](https://github.com/veradureke/Deforestation-Exploration)**
-   **Description**: A comprehensive exploratory data analysis of deforestation patterns and contributing factors.  
-   **Features**: Geospatial analysis, data visualization dashboards, and actionable insights for environmental sustainability.
+### [Technology Product Categorization](https://github.com/veradureke/Technology-Product-Categorization)
+Multiclass classification of technology products using XGBoost. Includes tokenization of product descriptions and precision-focused feature engineering.
 
-### 3. **[Seven Sages Brewing](https://github.com/veradureke/Seven-Sages-Brewing)**
-   **Description**: A predictive analytics project aimed at optimizing sales for a craft brewing company.  
-   **Features**: Demand forecasting, time-series analysis, and visualization of market trends.
+### [Deforestation Exploration](https://github.com/veradureke/Deforestation-Exploration)
+Exploratory data analysis of global deforestation patterns. Geospatial analysis, data visualization dashboards, and insights for environmental sustainability.
 
----
-
-## 📊 Recent Activity
-
-- **Consistent Contributions**: Engaged with repositories weekly to maintain a green contribution graph.
-- **Community Engagement**: Responded to issues, participated in discussions, and made pull requests to collaborative projects.  
-- **Following & Starring**: Engaged with top-notch data science and AI repositories for continuous learning.
+### [Seven Sages Brewing](https://github.com/veradureke/Seven-Sages-Brewing)
+Predictive analytics for a craft brewing company. Demand forecasting, time-series analysis, and market trend visualization.
 
 ---
 
-## 🛠️ How to Get Started with My Projects
+## Research Interests
 
-Each repository includes:  
-- **README files** with project overviews, objectives, methodology, and visualizations.  
-- **Installation Instructions**: Step-by-step setup guides for local environments.  
-- **Sample Datasets**: Provided to test the project.  
-- **Documentation**: Includes user guides and API references for project replication.  
-
-Feel free to explore and contribute to my projects! 💡
+Algorithmic fairness, data ethics, ML bias auditing, responsible AI. Particularly interested in how fairness constraints interact with model performance across demographic groups, and the policy implications of biased automated systems.
 
 ---
 
-## 🤝 Let’s Collaborate!
-
-Whether you're interested in contract analysis, data ethics, or AI solutions, I’d love to connect. Let’s create impactful solutions together!
-
----
-
-### 📈 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=veradureke&show_icons=true&theme=radical)
